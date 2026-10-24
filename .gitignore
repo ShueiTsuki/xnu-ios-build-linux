@@ -1,0 +1,8 @@
+# what the toolchain makes stays out of the repository
+/sdks/
+*.sdk/
+*.xip
+*.metallib
+*.air
+*.air.ll
+*.bc
